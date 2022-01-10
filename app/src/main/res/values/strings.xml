@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Telecommand_Bluetooth</string>
+    <string name="yourTitle">Erreur permission</string>
+    <string name="yourMessage">Pour scanner les périphériques, vous devez accepter l\'utilisation de la localisation.</string>
+    <string name="scan_ended">Fin du scann</string>
+    <string name="btn_deconnexion">DECONNEXION</string>
+    <string name="btn_scann">LANCER LE SCAN</string>
+    <string name="btn_led">TOGGLE LED</string>
+    <string name="txt_connect">Connecté à XXXXX</string>
+    <string name="trying_connection_to">Connection à %1$s</string>
+    <string name="connected_to">Connecté à %1$s</string>
+    <string name="uuid_not_found">UUID non trouvé</string>
+    <string name="not_connected">Non connecté</string>
+    <string name="change_state">CHANGER L\'ETAT</string>
+    <string name="btn_internet">COMMANDER VIA INTERNET</string>
+    <string name="btn_scan">SCANNER LES PERIPHERIQUES</string>
+    <string name="piIdentifier">Veuillez vous connecter à une Pi avant de vous connecter via internet.</string>
+    <string name="enable_ble_notifications">Notifications BLE activées</string>
+    <string name="item_title">Item x</string>
+    <string name="item_sub_title">Sub Item x</string>
+    <string name="airplaneModeOn">Veuillez désactiver le mode avion pour accéder à cette fonctionnalité.</string>
+</resources>
